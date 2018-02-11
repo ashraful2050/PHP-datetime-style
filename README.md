@@ -1,2 +1,3 @@
 # get_timedata
-&lt;?php date_default_timezone_set('America/Los_Angeles'); $time = strtotime(Date('Y-m-d H:i:s')); $month=date("F",$time); $year=date("Y",$time); $day=date("d",$time); $hour=date("H",$time); $minute=date("i",$time); $x=date("A",$time); $final=substr(date("l"),0,3).", ".substr($month,0,3)." ".$day.", ".$year." at ".$hour.":".$minute." ".$x; echo $final; ?>
+# This code will help to arrange your datetime style......
+# Please rate this code with your valuable line. Thank You
