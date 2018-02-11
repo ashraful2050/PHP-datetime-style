@@ -1,3 +1,3 @@
-# get_timedata
-# This code will help to arrange your datetime style......
-# Please rate this code with your valuable line. Thank You
+# Change your Date Time Like this: 29 September 2018, Friday, 09:10am
+This code will help to arrange your datetime style......
+Please rate this code with your valuable line. Thank You
